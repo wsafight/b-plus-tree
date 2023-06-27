@@ -1,26 +1,26 @@
-# tool-library-template
+# b-plus-tree
 
 <!-- [![NPM Version](https://badgen.net/npm/v/tool-library-template)](https://www.npmjs.com/package/tool-library-template) -->
 
 Read this in other languages:
-[English](https://github.com/wsafight/tool-library-template/blob/main/README.EN.md)
+[English](https://github.com/wsafight/b-plus-tree/blob/main/README.EN.md)
 
-工具库模板
+B+ 树结构的 TypeScript 实现。
 
 ## 特性
 
-- [x] 基于 modern.js
+<!-- - [ ] 基于 modern.js -->
 
 ## 安装
 
 ```bash
-npm install tool-library-template
+npm install b-plus-tree-ts
 ```
 
 或者
 
 ```bash
-yarn add tool-library-template
+yarn add b-plus-tree-ts
 ```
 
 ## 用法
@@ -39,7 +39,5 @@ yarn add tool-library-template
 ```
 
 ## Changelog
-
-- 0.0.2 切换框架为 modern.js
 
 - 0.0.1 基本可用
